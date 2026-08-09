@@ -15,4 +15,4 @@
 
 ## Tableau Public Link
 
-https://public.tableau.com/app/profile/inbaa.a
+[https://public.tableau.com/views/Swiggy\_Cuisine\_Performance\_Dashboard/Dashboard1?\:language=en-US&\:sid=&\:redirect=auth&\:display\_count=n&\:origin=viz\_share\_link](https://public.tableau.com/views/Swiggy_Cuisine_Performance_Dashboard/Dashboard1?\:language=en-US&\:sid=&\:redirect=auth&\:display_count=n&\:origin=viz_share_link)   
