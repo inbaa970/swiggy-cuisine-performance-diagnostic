@@ -53,3 +53,5 @@ Run the following command from the repository folder:
 
 ```bash
 python3 generate_data.py
+
+
